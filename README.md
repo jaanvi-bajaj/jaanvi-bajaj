@@ -14,13 +14,13 @@
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/u/jaanvibajaj/">
+  <a href="https://leetcode.com/u/jaanvi-bajaj/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/jaanvi-bajaj-458200250/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/jb5356">
+  <a href="https://www.hackerrank.com/profile/jaanvibajaj0410">
     <img src="https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
@@ -28,7 +28,7 @@
 ---
 
 ### 🎶 Vibe Check  
-> *"The journey of learning never stops, and neither do I!"* ✨  
+> *""Currently in Alpha: Shipping features, not excuses. The rest is commentary.""* ✨  
 
 </div>
 <div align="center">
