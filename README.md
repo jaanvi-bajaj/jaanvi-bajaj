@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-🎓 **3rd Year Student** at SRM Institute of Science and Technology  
+🎓 **Student** at University of Wollongong,Dubai  
 🌟 **Exploring** the world of tech, creativity, and innovation  
 💡 **Always learning** something new and exciting  
 
