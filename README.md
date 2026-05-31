@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-🎓 **Student** at University of Wollongong,Dubai  
+🎓 **Student** at SRM University, Chennai 2022-2026
 🌟 **Exploring** the world of tech, creativity, and innovation  
 💡 **Always learning** something new and exciting  
 
