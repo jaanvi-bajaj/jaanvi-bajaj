@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jaanvi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=FF2E88&center=true&vCenter=true&width=760&lines=Data+science+%E2%80%A2+computer+vision+%E2%80%A2+cloud;Master+of+Data+Science+in+Economics+%40+SMU;Best+Paper+%40+ICDAM+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=FF2E88&center=true&vCenter=true&width=760&lines=Data+science+%E2%80%A2+Computer+Vision+%E2%80%A2+Cloud;Master+of+Data+Science+in+Economics+%40+SMU;Best+Paper+%40+ICDAM+2026" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <p align="center">
   <b>Bachelor of Technology in Computer Science and Engineering</b><br>
   Specialisation in Software Engineering<br>
-  SRM Institute of Science and Technology, Chennai &nbsp;·&nbsp; CGPA 8.2/10, First Class
+  SRM Institute of Science and Technology, Chennai &nbsp;·&nbsp; 
 </p>
 
 <p align="center">
