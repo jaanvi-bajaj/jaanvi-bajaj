@@ -1,121 +1,112 @@
-<h1 align="center">
-  ✧･ﾟ Hey, I'm Jaanvi ･ﾟ✧
-</h1>
+<h1 align="center">Hey, I'm Jaanvi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF2E88&center=true&vCenter=true&width=560&lines=Caffeine+in%2C+models+out+%E2%98%95;Teaching+machines+to+look+at+things+%F0%9F%91%81%EF%B8%8F;Best+Paper+%40+ICDAM+2026+%F0%9F%8F%86;Harmonium+%E2%86%92+YOLOv9+%E2%86%92+Formula+1+%F0%9F%8F%8E%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=FF2E88&center=true&vCenter=true&width=700&lines=Data+science+%E2%80%A2+computer+vision+%E2%80%A2+cloud;MSc+Data+Science+for+Economics+%40+SMU;Best+Paper+%40+ICDAM+2026" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaanvi-bajaj-458200250/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF2E88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" />
+  <a href="https://www.linkedin.com/in/jaanvi-bajaj/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF2E88?style=flat-square&logo=linkedin&logoColor=white&labelColor=24292F" height="28" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/jaanvi-bajaj/">
-    <img src="https://img.shields.io/badge/LeetCode-FF6EC7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1B27" />
+    <img src="https://img.shields.io/badge/LeetCode-B14AED?style=flat-square&logo=leetcode&logoColor=white&labelColor=24292F" height="28" />
   </a>
-  <a href="mailto:jaanvibajaj.2026@mdse.smu.edu.sg">
-    <img src="https://img.shields.io/badge/Email-B14AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" />
-  </a>
-  <a href="https://github.com/bajaj-jaanvi">
-    <img src="https://img.shields.io/badge/Coursework-00F5D4?style=for-the-badge&logo=github&logoColor=1A1B27&labelColor=1A1B27" />
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/jaanvi_bajaj">
+    <img src="https://img.shields.io/badge/HackerRank-00D9C0?style=flat-square&logo=hackerrank&logoColor=white&labelColor=24292F" height="28" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Singapore-1A1B27?style=flat-square&labelColor=FF2E88" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20MSc%20Data%20Science-1A1B27?style=flat-square&labelColor=FF6EC7" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20Computer%20Vision-1A1B27?style=flat-square&labelColor=B14AED" />
-  <img src="https://img.shields.io/badge/%E2%98%95%20Caffeinated-1A1B27?style=flat-square&labelColor=00F5D4" />
+  Master's student in <b>Data Science for Economics</b> at Singapore Management University,<br>
+  after a <b>BTech in Computer Science</b> at SRM Institute of Science and Technology, Chennai.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86-Best%20Paper%2C%20ICDAM%202026-FF2E88?style=flat-square&labelColor=24292F" height="26" />
+</p>
+
+<p align="center">
+  <sub>7th International Conference on Data Analytics and Management, London Metropolitan University.<br>
+  Sole student author, written with my faculty supervisors.<br>
+  In press: Springer <i>Lecture Notes in Networks and Systems</i>.</sub>
 </p>
 
 <br>
 
-## 🌸 whoami
-
-```python
-jaanvi = {
-    "now":      "MSc Data Science for Economics @ SMU 🇸🇬",
-    "before":   "BTech CSE @ SRM, Chennai 🇮🇳",
-    "builds":   ["computer vision", "things that classify fruit", "web apps at 2am"],
-    "trophy":   "🏆 Best Paper, ICDAM 2026 → Springer LNNS",
-    "offline":  ["classical harmonium 🎹", "theatre 🎭", "athletics 🏃‍♀️", "F1 🏎️"],
-    "status":   "shipping ✨",
-}
-```
-
-<br>
-
-## 💾 things I've built
+<h2 align="center">💾 &nbsp;Things I've Built</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 Smart Fruit Profiling
-YOLOv9 that looks at a photo of fruit and tells you **what it is, how ripe it is, and how many calories it's hiding.**
+#### ⚙️ &nbsp;EditSphere
+A browser-based photo editor that does the heavy work on your own machine — ONNX background removal in-browser, 50 steps of undo, an offline-first gallery that survives a refresh. Behind it: AWS provisioned as code, containerised, and tested, scanned and deployed on every push.
 
-`32 classes` · `13,000 images` · **`mAP50 = 0.963`**
-
-<sub>Python · TensorFlow · YOLOv9 · OpenCV</sub>
+<sub>`React` `TypeScript` `Terraform` `Docker` `Kubernetes` `AWS` `GitHub Actions` `Grafana`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎭 MoodLens
-Reads your face, suggests a journaling prompt. Runs **100% in your browser** — your face never leaves your laptop. ( ˶ˆ ᗜ ˆ˵ )
+#### 🍎 &nbsp;Smart Fruit Profiling
+Point a camera at a piece of fruit and it tells you what it is, how ripe it is, and roughly how many calories you're about to eat. Built for agriculture and retail sorting. This is the one the paper came from.
 
-<sub>React · TypeScript · TensorFlow.js · face-api.js</sub>
+<sub>`32 classes` · `13,000 images` · **`mAP50 = 0.963`**</sub>
+
+<sub>`Python` `TensorFlow` `YOLOv9` `OpenCV`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Prompt-Driven Builds
-Full-stack apps built by pairing prompting workflows with hand-written front-end code. Restaurants, green tech, whatever needed a database.
+#### 🎭 &nbsp;MoodLens
+Reads your expression through the webcam and offers a journaling prompt that matches it. Every frame is processed locally — no image ever leaves the device, which was the whole design constraint.
 
-<sub>React · TypeScript · MySQL</sub>
+<sub>`React` `TypeScript` `TensorFlow.js` `face-api.js`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📓 More, elsewhere
-Grad-school experiments live on a second account so this one stays tidy.
+#### 🌐 &nbsp;Client Web Builds
+Three live multi-page applications — a pizzeria, a driving school and a green-tech firm — each with booking flows, catalogues and a relational back end behind them.
 
-<sub>notebooks · cloud · stats</sub>
-
-**[→ @bajaj-jaanvi](https://github.com/bajaj-jaanvi)**
+<sub>`React` `TypeScript` `Node.js` `SQL`</sub>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <sub>👇 everything's pinned below — have a dig around</sub>
+  <sub>📓 &nbsp;Graduate coursework from the SMU programme lives on a second account →
+  <a href="https://github.com/bajaj-jaanvi"><b>@bajaj-jaanvi</b></a></sub>
 </p>
 
 <br>
 
-## 🧰 the toolbox
+<h2 align="center">🧰 &nbsp;Toolkit</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,java,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,java,ts,react&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,mysql,sqlite,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,docker,kubernetes,terraform,aws&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus,ansible,git,figma&theme=dark" />
 </p>
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,50:B14AED,100:00D9C0&height=3&section=header" width="100%"/>
 
 <p align="center">
-  <i>☕ Yes, I do fit the cliché — a lot of caffeine, a lot of staring at a cursor that isn't blinking back.<br>
-  But the models do eventually converge, and that's the whole job.</i>
+  <i>☕ Caffeine in, models out. They converge eventually — that's the whole job.</i>
 </p>
 
 <p align="center">
-  <b>Open to data science & ML internships in Singapore</b> 🇸🇬
+  <b>Open to data science, ML and software internships in Singapore</b> 🇸🇬
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E88,50:B14AED,100:00F5D4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E88,50:B14AED,100:00D9C0&height=110&section=footer" width="100%"/>
