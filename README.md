@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jaanvi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=FF2E88&center=true&vCenter=true&width=700&lines=Data+science+%E2%80%A2+computer+vision+%E2%80%A2+cloud;MSc+Data+Science+for+Economics+%40+SMU;Best+Paper+%40+ICDAM+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=FF2E88&center=true&vCenter=true&width=760&lines=Data+science+%E2%80%A2+computer+vision+%E2%80%A2+cloud;Master+of+Data+Science+in+Economics+%40+SMU;Best+Paper+%40+ICDAM+2026" />
 </p>
 
 <p align="center">
@@ -19,8 +19,14 @@
 </p>
 
 <p align="center">
-  Master's student in <b>Data Science for Economics</b> at Singapore Management University,<br>
-  after a <b>BTech in Computer Science</b> at SRM Institute of Science and Technology, Chennai.
+  <b>Master of Data Science in Economics</b><br>
+  Singapore Management University, School of Economics
+</p>
+
+<p align="center">
+  <b>Bachelor of Technology in Computer Science and Engineering</b><br>
+  Specialisation in Software Engineering<br>
+  SRM Institute of Science and Technology, Chennai &nbsp;·&nbsp; CGPA 8.2/10, First Class
 </p>
 
 <p align="center">
@@ -42,7 +48,7 @@
 <td width="50%" valign="top">
 
 #### ⚙️ &nbsp;EditSphere
-A browser-based photo editor that does the heavy work on your own machine — ONNX background removal in-browser, 50 steps of undo, an offline-first gallery that survives a refresh. Behind it: AWS provisioned as code, containerised, and tested, scanned and deployed on every push.
+A browser-based photo editor that does the heavy work on your own machine: ONNX background removal in-browser, 50 steps of undo, and an offline-first gallery that survives a refresh. Behind it sits AWS provisioned as code, containerised, then tested, scanned and deployed on every push.
 
 <sub>`React` `TypeScript` `Terraform` `Docker` `Kubernetes` `AWS` `GitHub Actions` `Grafana`</sub>
 
@@ -50,7 +56,7 @@ A browser-based photo editor that does the heavy work on your own machine — ON
 <td width="50%" valign="top">
 
 #### 🍎 &nbsp;Smart Fruit Profiling
-Point a camera at a piece of fruit and it tells you what it is, how ripe it is, and roughly how many calories you're about to eat. Built for agriculture and retail sorting. This is the one the paper came from.
+Point a camera at a piece of fruit and it tells you what it is, how ripe it is, and roughly how many calories you're about to eat. Built for agriculture and retail sorting. This is the project the paper came from.
 
 <sub>`32 classes` · `13,000 images` · **`mAP50 = 0.963`**</sub>
 
@@ -62,7 +68,7 @@ Point a camera at a piece of fruit and it tells you what it is, how ripe it is, 
 <td width="50%" valign="top">
 
 #### 🎭 &nbsp;MoodLens
-Reads your expression through the webcam and offers a journaling prompt that matches it. Every frame is processed locally — no image ever leaves the device, which was the whole design constraint.
+Reads your expression through the webcam and offers a journaling prompt that matches it. Every frame is processed locally, so no image ever leaves the device. That was the whole design constraint.
 
 <sub>`React` `TypeScript` `TensorFlow.js` `face-api.js`</sub>
 
@@ -70,7 +76,7 @@ Reads your expression through the webcam and offers a journaling prompt that mat
 <td width="50%" valign="top">
 
 #### 🌐 &nbsp;Client Web Builds
-Three live multi-page applications — a pizzeria, a driving school and a green-tech firm — each with booking flows, catalogues and a relational back end behind them.
+Three live multi-page applications for a pizzeria, a driving school and a green-tech firm, each with booking flows, catalogues and a relational back end behind them.
 
 <sub>`React` `TypeScript` `Node.js` `SQL`</sub>
 
@@ -79,8 +85,9 @@ Three live multi-page applications — a pizzeria, a driving school and a green-
 </table>
 
 <p align="center">
-  <sub>📓 &nbsp;Graduate coursework from the SMU programme lives on a second account →
-  <a href="https://github.com/bajaj-jaanvi"><b>@bajaj-jaanvi</b></a></sub>
+  <a href="https://github.com/bajaj-jaanvi">
+    <img src="https://img.shields.io/badge/%F0%9F%93%93%20SMU%20coursework%20lives%20here-%40bajaj--jaanvi-B14AED?style=flat-square&labelColor=24292F" height="30" />
+  </a>
 </p>
 
 <br>
@@ -102,7 +109,7 @@ Three live multi-page applications — a pizzeria, a driving school and a green-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E88,50:B14AED,100:00D9C0&height=3&section=header" width="100%"/>
 
 <p align="center">
-  <i>☕ Caffeine in, models out. They converge eventually — that's the whole job.</i>
+  <i>☕ Caffeine in, models out. They converge eventually, and that's the whole job.</i>
 </p>
 
 <p align="center">
